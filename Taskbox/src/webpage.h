@@ -7,8 +7,8 @@
 #endif
 
 // Replace with your Wi-Fi credentials
-const char* ssid = "YOUR_WIFI_NAME";
-const char* password = "YOUR_WIFI_PASSWORD";
+const char* ssid = "alaynas iPhone";
+const char* password = "abcdefghij";
 
 // Pins
 const int LED_PIN = 2;      // Built-in LED or external
